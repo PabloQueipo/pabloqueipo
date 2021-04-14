@@ -16,4 +16,5 @@
 - :e-mail: Email: Pabloqueipo87@gmail.com
 - :mag_right: Linkedin: https://www.linkedin.com/in/pablo-queipo-pardo-189556196/
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[https://www.linkedin.com/in/pablo-queipo-pardo-189556196]" />
+![image](https://user-images.githubusercontent.com/55402074/114670572-7054cb00-9d03-11eb-8866-403da1fa1991.png)
+
