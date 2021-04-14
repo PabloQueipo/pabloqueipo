@@ -2,8 +2,6 @@
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
 ### Hi 👋 Soy Pablo Queipo
 
-
-
 ## Always learning:
 
 :books: He estudiado en el Colegio Andel  (Madrid/Alcorcón) el Grado Superior de Administración de Sistemas Informáticos en Red y realizado las prácticas en la Empresa Indra S.A.
