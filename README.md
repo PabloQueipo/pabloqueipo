@@ -13,8 +13,10 @@
 * <strong>Curso de Hacking con buscadores: Google, Bing y Shodan</strong> - *OpenWebinars*
 * <strong>Cloud Computing</strong> - *Google Actívate*
 * <strong>Introducción al desarrollo Web I y II</strong> - *Google Actívate*
+* <strong>Desarrollo de Apps Móviles</strong> - *Google Actívate*
 
- Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
+
+ :computer: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
 
 
 
