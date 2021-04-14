@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/55402074/114670572-7054cb00-9d03-11eb-8866-403da1fa1991.png)
 
 
-:books: He estudiado en el Colegio Andel  (Madrid/Alcorcón) el Grado Superior de Administración de Sistemas Informáticos en Red y realizado las prácticas en la Empresa Indra S.A.
+:books: He estudiado en el <strong> Colegio Andel </strong> (Madrid/Alcorcón) el Grado Superior de Administración de Sistemas Informáticos en Red y realizado las prácticas en la Empresa Indra S.A.
 
 :microscope: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
 
