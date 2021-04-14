@@ -14,7 +14,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pablo-queipo-pardo-189556196/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCI97j7h315nRM0yLTdN_J_g)  
-<img src='https://pic.onlinewebfonts.com/svg/img_426301.png' alt='Gmail' height='40'>(mailto:pabloqueipo87@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+<img src='https://pic.onlinewebfonts.com/svg/img_426301.png' alt='Gmail' height='40'>([Pablo Queipo]mailto:pabloqueipo87@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
