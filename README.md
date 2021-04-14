@@ -20,7 +20,6 @@
  :computer: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
  </br>
  </br>
- </br>
  :space_invader: Entre mis Hobbies están:
  
  * :sparkles: *Futbol*
