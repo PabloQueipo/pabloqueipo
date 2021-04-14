@@ -48,9 +48,9 @@
 ![Profile views](https://gpvc.arturio.dev/PabloQueipo)  
 
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
-<p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<p align="center">
 [<img src='https://media.giphy.com/media/3ohzdGnD5vAud1NCZW/giphy.gif' alt='JUEGO' height='70'>](https://github.com/PabloQueipo/ISO/blob/master/2021_04_15.md#juego-piedra-papel-o-tijera-en-powershell)
 </p>
 
