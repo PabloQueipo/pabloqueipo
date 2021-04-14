@@ -17,6 +17,14 @@
 
 
  :computer: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
+ 
+ Entre mis Hobbies estan:
+ 
+ *  :sparkles: Futbol
+ * :sparkles: Snowboard
+ * :sparkles: Artes Marciales
+ * :sparkles: Viajar
+ * :sparkles: Cine
 
 
 
