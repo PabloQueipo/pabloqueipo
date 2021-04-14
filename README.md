@@ -5,7 +5,16 @@
 
 :books: He estudiado en el <strong> Colegio Andel </strong> (Madrid/Alcorcón) el <strong> Grado Superior de Administración de Sistemas Informáticos en Red </strong> y realizado las prácticas en la Empresa <strong>Indra S.A.</strong>
 
-:microscope: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
+:microscope: Tambien he realizado los siguientes cursos:
+
+* [Curso Técnico Especialista en Ciberseguridad] Universidad de León
+* [Curso de Ciberinteligencia] Hack by Security
+* [Curso de introducción a Ethical Hacking] OpenWebinars
+* [Curso de Hacking con buscadores: Google, Bing y Shodan] OpenWebinars
+* [Cloud Computing] Google Actívate
+* [Introducción al desarrollo Web I y II] Google Actívate
+
+ Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
 
 
 
