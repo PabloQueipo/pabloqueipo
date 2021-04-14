@@ -50,3 +50,7 @@
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+[<img src='https://giphy.com/gifs/netflix-will-arnett-netflix-live-3ohzdGnD5vAud1NCZW/links' alt='JUEGO' height='50'>](https://github.com/PabloQueipo/ISO/blob/master/2021_04_15.md#juego-piedra-papel-o-tijera-en-powershell)
+
+
