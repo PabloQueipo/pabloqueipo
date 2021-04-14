@@ -20,11 +20,12 @@
  
  Entre mis Hobbies están:
  
- *  :sparkles: Futbol
- * :sparkles: Snowboard
- * :sparkles: Artes Marciales
- * :sparkles: Viajar
- * :sparkles: Cine
+ *  :sparkles: *Futbol*
+ * :sparkles: *Snowboard*
+ * :sparkles: *Artes Marciales*
+ * :sparkles: *Informática*
+ * :sparkles: *Viajar*
+ * :sparkles: *Cine*
 
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
 
