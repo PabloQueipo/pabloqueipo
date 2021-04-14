@@ -7,7 +7,7 @@
 
 :microscope: Tambien he realizado los siguientes cursos:
 
-* <strong>Curso Técnico Especialista en Ciberseguridad</strong> - <italic> Universidad de León </italic>
+* <strong>Curso Técnico Especialista en Ciberseguridad</strong> - <bold> Universidad de León </bold>
 * <strong>Curso de Ciberinteligencia</strong> - Hack by Security
 * <strong>Curso de introducción a Ethical Hacking</strong> - OpenWebinars
 * <strong>Curso de Hacking con buscadores: Google, Bing y Shodan</strong> - OpenWebinars
