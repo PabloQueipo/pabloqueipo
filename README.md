@@ -28,10 +28,10 @@
  * :sparkles: *Cine*
 
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
-
+<p align ="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/pablo-queipo-pardo-189556196/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='50'>](https://www.youtube.com/channel/UCI97j7h315nRM0yLTdN_J_g)  [<img src='https://pic.onlinewebfonts.com/svg/img_426301.png' alt='Gmail' height='50'>](mailto:pabloqueipo87@gmail.com?subject=[GitHub]%20Hola%20amigo)
-
+</p>
 
 
 
