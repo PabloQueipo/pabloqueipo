@@ -15,9 +15,9 @@
 * <strong>Introducción al desarrollo Web I y II</strong> - *Google Actívate*
 * <strong>Desarrollo de Apps Móviles</strong> - *Google Actívate*
 
-
+</br>
  :computer: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
- 
+ </br>
  Entre mis Hobbies están:
  
  * :sparkles: *Futbol*
