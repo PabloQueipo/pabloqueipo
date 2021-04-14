@@ -56,5 +56,5 @@
  
 [<img src='https://media.giphy.com/media/3ohzdGnD5vAud1NCZW/giphy.gif' alt='JUEGO' height='100'>](https://github.com/PabloQueipo/ISO/blob/master/2021_04_15.md#juego-piedra-papel-o-tijera-en-powershell)
 
-<strong> jUEGO PIEDRA PAPEL O TIJERA POWERSHELL </strong>
+<strong> [JUEGO PIEDRA PAPEL O TIJERA POWERSHELL] </strong>
 
