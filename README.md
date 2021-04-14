@@ -12,7 +12,7 @@
 ![Estadisticas Queipo](https://github-readme-stats.vercel.app/api?username=pabloqueipo&show_icons=true&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
-- :e-mail: Email: Pabloqueipo87@gmail.com
+- :e-mail: Email: Pabloqueipo87@gmail.com </br>
 - :mag_right: Linkedin: https://www.linkedin.com/in/pablo-queipo-pardo-189556196/
 
-
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
