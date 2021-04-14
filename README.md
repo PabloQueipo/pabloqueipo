@@ -9,7 +9,7 @@
 :microscope: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
 
 
-![Estadisticas Queipo](https://github-readme-stats.vercel.app/api?username=pabloqueipo&show_icons=true&theme=radical)
+
 
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
 - :e-mail:  Pabloqueipo87@gmail.com </br>
@@ -24,6 +24,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PabloQueipo)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloQueipo&show_icons=true)  
+![Estadisticas Queipo](https://github-readme-stats.vercel.app/api?username=pabloqueipo&show_icons=true&theme=radical)
 
 ![Profile views](https://gpvc.arturio.dev/PabloQueipo)  
