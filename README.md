@@ -20,7 +20,7 @@
  
  Entre mis Hobbies están:
  
- *  :sparkles: Futbol
+ *  :sparkles: \underline Futbol
  * :sparkles: Snowboard
  * :sparkles: Artes Marciales
  * :sparkles: Viajar
