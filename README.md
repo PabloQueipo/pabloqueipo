@@ -5,7 +5,7 @@
 
 :books: He estudiado en el <strong> Colegio Andel </strong> (Madrid/Alcorcón) el <strong> Grado Superior de Administración de Sistemas Informáticos en Red </strong> y realizado las prácticas en la Empresa <strong>Indra S.A.</strong>
 </br>
-
+</br>
 :microscope: Tambien he realizado los siguientes cursos:
 
 * <strong>Curso Técnico Especialista en Ciberseguridad</strong> - *Universidad de León*
