@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋 Soy Pablo Queipo
 
 <!--
 **PabloQueipo/pabloqueipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Always learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: He estudiado en el Colegio Andel  (Madrid/Alcorcón) el Grado Superior de Administración de Sistemas Informáticos en Red y realizado las prácticas en la Empresa Indra S.A.
+
+
+:microscope: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
+
+
+
+- :e-mail: Email: Pabloqueipo87@gmail.com
+- :mag_right: Linkedin: https://www.linkedin.com/in/pablo-queipo-pardo-189556196/
+
