@@ -7,12 +7,12 @@
 
 :microscope: Tambien he realizado los siguientes cursos:
 
-* [Curso Técnico Especialista en Ciberseguridad] Universidad de León
-* [Curso de Ciberinteligencia] Hack by Security
-* [Curso de introducción a Ethical Hacking] OpenWebinars
-* [Curso de Hacking con buscadores: Google, Bing y Shodan] OpenWebinars
-* [Cloud Computing] Google Actívate
-* [Introducción al desarrollo Web I y II] Google Actívate
+* <strong>Curso Técnico Especialista en Ciberseguridad</strong> Universidad de León
+* <strong>Curso de Ciberinteligencia</strong> Hack by Security
+* <strong>Curso de introducción a Ethical Hacking</strong> OpenWebinars
+* <strong>Curso de Hacking con buscadores: Google, Bing y Shodan</strong> OpenWebinars
+* <strong>Cloud Computing</strong> Google Actívate
+* <strong>Introducción al desarrollo Web I y II</strong> Google Actívate
 
  Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
 
