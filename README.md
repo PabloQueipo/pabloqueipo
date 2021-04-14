@@ -17,7 +17,7 @@
 * <strong>Desarrollo de Apps Móviles</strong> - *Google Actívate*
 
 </br>
- :computer: Uso este repositorio para guardar todos aquello que he ido haciendo en clase y futuros script.
+ :computer: Uso este canal para guardar todo aquello que he ido haciendo en clase y los futuros script que vaya realizando.
  </br>
  </br>
  :space_invader: Entre mis Hobbies están:
