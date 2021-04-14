@@ -13,6 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png" />
 - :e-mail: <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> Pabloqueipo87@gmail.com </br>
-- :mag_right: 	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> https://www.linkedin.com/in/pablo-queipo-pardo-189556196/
+- :mag_right: 	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" img src="https://www.linkedin.com/in/pablo-queipo-pardo-189556196/"/> https://www.linkedin.com/in/pablo-queipo-pardo-189556196/
 
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
