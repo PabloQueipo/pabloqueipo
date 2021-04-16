@@ -12,6 +12,7 @@
 * <strong>Curso de Ciberinteligencia</strong> - *Hack by Security*
 * <strong>Curso de introducción a Ethical Hacking</strong> - *OpenWebinars*
 * <strong>Curso de Hacking con buscadores: Google, Bing y Shodan</strong> - *OpenWebinars*
+* <strong>Curso de Introducción a la programación con Pseudocódigo</strong> - *OpenWebinars*
 * <strong>Cloud Computing</strong> - *Google Actívate*
 * <strong>Introducción al desarrollo Web I y II</strong> - *Google Actívate*
 * <strong>Desarrollo de Apps Móviles</strong> - *Google Actívate*
